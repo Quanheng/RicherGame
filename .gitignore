@@ -6,6 +6,5 @@ proj.linux/
 proj.win8.1-universal/
 proj.win32/
 proj.wp8-xaml/
-
 .cocos-project.json
 CMakeLists.txt
